@@ -27,8 +27,8 @@ When a user makes a vation, the system:
 - Maintains a link between customers & their reservations.
 - Associates each reservation with a specific table in the restaurant.
 <br clear="right">
-### 📥 How to Access the Release  
 
+## 📥 How to Access the Release 
 You can download and test the **Date Night Dine (APK)** in two ways:  
 
 [![Latest Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue?style=for-the-badge)](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
