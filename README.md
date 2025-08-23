@@ -20,4 +20,6 @@ When a user makes a reservation, the system:
 - Checks table availability.
 - Records reservation details.
 - Allows staff to view, update, and manage reservations seamlessly.
+  <img width="684.5" height="466.5" alt="image" src="https://github.com/user-attachments/assets/323749da-ae8a-4d9b-882f-b084e62de5fa" />
+
 
