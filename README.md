@@ -26,8 +26,5 @@ When a user makes a vation, the system:
 - Allows staff to view, update, and manage reservations seamlessly.
 - Maintains a link between customers & their reservations.
 - Associates each reservation with a specific table in the restaurant.
-- Tracks reservation time, date, and head count for accurate planning.
-- Stores staff assignments for managing bookings and customer service.
-- Ensures referential integrity between tables (e.g., Customer → Reservation → Table).  
-
+- Tracks reservation time, date, and head count for accurate planning. 
 <br clear="right">
