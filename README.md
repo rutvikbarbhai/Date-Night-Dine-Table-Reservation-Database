@@ -35,7 +35,7 @@ You can download and test the **Date Night Dine (APK)** in two ways:
 
 
 
-- 👉 **Direct Download**: [Click here to download the APK](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
+- 👉 **Direct Download**: [Click here to download the APK](https://github.com/rutvikbarbhai/Date-Night-Dine-Table-Reservation-Database/releases/download/V1.0.0/DateNight.Dine.apk)
 - 👉 Or go to the [Releases Page](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/tag/v1.0.0) to view all assets and details.  
 
 <img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> **Note**: The APK is for testing purposes only. To install on Android, enable *Install from Unknown Sources* in your device settings.  
