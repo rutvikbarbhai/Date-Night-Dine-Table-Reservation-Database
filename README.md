@@ -41,7 +41,7 @@ You can download and test the **Date Night Dine (APK)** in two ways:
 ---
 ## <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align:bottom;"> Setup Instructions  
 
-Follow the steps below to set up and test **Project Medisure** on your system:  
+Follow the steps below to set up and test **DateNightDine** on your system:  
 
 ### 1️⃣ Clone the Repository  
 ```bash
