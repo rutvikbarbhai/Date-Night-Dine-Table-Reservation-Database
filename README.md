@@ -15,11 +15,19 @@ The application stores the following essential reservation details:
 - 👥 **Number of people**
 - ⏰ **Time of arrival**
 ### <img src="https://github.com/user-attachments/assets/90540751-a138-4e66-8422-1bb4ca689f13" height="22px" style="vertical-align:text-bottom;"> Database Schema
+<img src="https://github.com/user-attachments/assets/323749da-ae8a-4d9b-882f-b084e62de5fa"
+     alt="Reservation system schema"
+     width="420"
+     align="right">
 The database schema includes a reservations table that records these details for every reservation made.
-When a user makes a reservation, the system: 
+When a user makes a vation, the system: 
 - Checks table availability.
 - Records reservation details.
 - Allows staff to view, update, and manage reservations seamlessly.
-  <img width="684.5" height="466.5" alt="image" src="https://github.com/user-attachments/assets/323749da-ae8a-4d9b-882f-b084e62de5fa" />
+- Maintains a link between customers & their reservations.
+- Associates each reservation with a specific table in the restaurant.
+- Tracks reservation time, date, and head count for accurate planning.
+- Stores staff assignments for managing bookings and customer service.
+- Ensures referential integrity between tables (e.g., Customer → Reservation → Table).  
 
-
+<br clear="right">
