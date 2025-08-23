@@ -39,3 +39,58 @@ You can download and test the **Date Night Dine (APK)** in two ways:
 <img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> **Note**: The APK is for testing purposes only. To install on Android, enable *Install from Unknown Sources* in your device settings.  
 
 ---
+## <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align:bottom;"> Setup Instructions  
+
+Follow the steps below to set up and test **Project Medisure** on your system:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User.git
+cd Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User
+```
+### 2️⃣ Install Dependencies
+```bash
+flutter pub get
+```
+### 3️⃣ Run the App (Developer Mode)
+```bash
+flutter run
+```
+### 4️⃣ Install Pre-Built APK
+```bash
+wget https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest/download/medisure.apk
+
+adb install medisure.apk
+
+```
+<img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> Make sure USB Debugging is enabled on your Android device if you’re installing via adb.
+
+
+## 👨‍🔬 Inventors  
+- **Dr. Ambika B.J**  
+  Professor : Project under Facuilty incharge  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Email ID: ambikabj.pes@gmail.com
+  
+- **Rutvik Avinash Barbhai**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Email ID: rutvik.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 7887367708  
+
+- **Sheetal Sinha**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India   
+  Email ID: sheetal.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 9962008641  
+
+
+
+  
+
