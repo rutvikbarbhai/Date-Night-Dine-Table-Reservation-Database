@@ -45,8 +45,8 @@ Follow the steps below to set up and test **DateNightDine** on your system:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User.git
-cd Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User
+git clone https://github.com/rutvikbarbhai/Date-Night-Dine-Table-Reservation-Database.git
+cd Date-Night-Dine-Table-Reservation-Database
 ```
 ### 2️⃣ Install Dependencies
 ```bash
@@ -58,9 +58,12 @@ flutter run
 ```
 ### 4️⃣ Install Pre-Built APK
 ```bash
-wget https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest/download/medisure.apk
+# Download APK (DateNightDine v1.0.0 Beta released August 23, 2025)
+wget https://github.com/rutvikbarbhai/Date-Night-Dine-Table-Reservation-Database/releases/latest/download/Name-of-APK-Filename.apk
 
-adb install medisure.apk
+# Install via ADB
+adb install Name-of-APK-Filename.apk
+
 
 ```
 <img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> Make sure USB Debugging is enabled on your Android device if you’re installing via adb.
